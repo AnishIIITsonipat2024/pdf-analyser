@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+
+pdfplumber
+PyMuPDF
+
+sentence-transformers
+transformers
+torch
+faiss-cpu
+
+fpdf2
